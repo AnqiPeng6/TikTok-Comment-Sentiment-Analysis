@@ -22,7 +22,7 @@ Clone the TikTok Comment Sentiment Analysis repository into your local machine:
 ```bash
 git clone https://github.com/AnqiPeng6/TikTok-Comment-Sentiment-Analysis.git
 cd TikTok-Comment-Sentiment-Analysis
-```bash
+```
 
 ## 1. Set Up the Virtual Environment
 To manage dependencies effectively, it's recommended to use a virtual environment:
