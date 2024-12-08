@@ -31,4 +31,17 @@ To manage dependencies effectively, it's recommended to use a virtual environmen
 source .venv/bin/activate
 # On Windows:
 .venv\Scripts\activate
+```
+
+## 3. Install Dependencies
+Install the required Node.js and Python dependencies:
+
+```bash
+# Install Node.js dependencies:
+npm install
+
+# Install Playwright and its browser binaries:
+npm install playwright
+pip install playwright==1.37.0
+```
 
