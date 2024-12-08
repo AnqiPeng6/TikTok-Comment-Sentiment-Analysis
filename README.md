@@ -60,3 +60,20 @@ To run the application, execute the main script located in the Word2Vec director
 ```bash
 python Word2Vec/main.py
 ```
+
+## Contributing
+
+Contributions are welcome! Feel free to fork the repository, submit pull requests, or open issues for any feature requests or bugs.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- **David Teather's Unofficial TikTok API**: Inspiration for the TikTok API implementation.
+- **Playwright**: For browser automation and testing.
+- **Gensim**: For modeling text data.
+- **word2vec & BERT**: For natural language processing tasks.
+- **Hugging Face BERT**: For advanced natural language processing capabilities.
+
