@@ -55,10 +55,10 @@ export PYTHONPATH="${PYTHONPATH}:$(pwd)"
 
 ## Usage
 
-To run the application, execute the main script located in the Word2Vec directory. Use the following command:
+To run the application, execute the main script located in the CommentAnalyzer directory. Use the following command:
 
 ```bash
-python Word2Vec/main.py
+python CommentAnalyzer/main.py
 ```
 
 ## Contributing
