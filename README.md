@@ -51,4 +51,12 @@ Set the necessary environment variables to ensure the Python scripts run correct
 
 ```bash
 export PYTHONPATH="${PYTHONPATH}:$(pwd)"
+```
 
+## Usage
+
+To run the application, execute the main script located in the Word2Vec directory. Use the following command:
+
+```bash
+python Word2Vec/main.py
+```
