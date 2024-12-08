@@ -1,4 +1,8 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
+.venv/lib/python3.9/site-packages/playwright/driver/node filter=lfs diff=lfs merge=lfs -text
+.venv/lib/python3.9/site-packages/torch/lib/libtorch_cpu.dylib filter=lfs diff=lfs merge=lfs -text
+Word2Vec/word2vec.model.syn1neg.npy filter=lfs diff=lfs merge=lfs -text
+Word2Vec/word2vec.model.wv.vectors.npy filter=lfs diff=lfs merge=lfs -text
 *.npy filter=lfs diff=lfs merge=lfs -text
 *.dylib filter=lfs diff=lfs merge=lfs -text
 .venv/lib/python3.9/site-packages/* filter=lfs diff=lfs merge=lfs -text
