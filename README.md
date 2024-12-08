@@ -14,3 +14,12 @@ The software continuously adapts by retraining its Word2Vec model with trending 
 * **Automatic Updates**: Continuously retrains the Word2Vec model using recent TikTok comments retrieved via the custom TikTok API and updates word-to-sentiment mappings accordingly.
 
 * **Result Comparison**: Evaluates system performance by comparing results against manually annotated datasets and sentiment analysis results from BERT-based models for benchmarking.
+
+# Installation
+
+## 1. Clone the Repository
+Clone the TikTok Comment Sentiment Analysis repository into your local machine:
+```bash
+git clone https://github.com/AnqiPeng6/TikTok-Comment-Sentiment-Analysis.git
+cd TikTok-Comment-Sentiment-Analysis
+
