@@ -24,7 +24,7 @@ git clone https://github.com/AnqiPeng6/TikTok-Comment-Sentiment-Analysis.git
 cd TikTok-Comment-Sentiment-Analysis
 ```
 
-## 1. Set Up the Virtual Environment
+## 2. Set Up the Virtual Environment
 To manage dependencies effectively, it's recommended to use a virtual environment:
 ```bash
 # On Unix-based systems:
@@ -44,4 +44,11 @@ npm install
 npm install playwright
 pip install playwright==1.37.0
 ```
+
+## Environment Variables
+
+Set the necessary environment variables to ensure the Python scripts run correctly:
+
+```bash
+export PYTHONPATH="${PYTHONPATH}:$(pwd)"
 
