@@ -58,7 +58,7 @@ export PYTHONPATH="${PYTHONPATH}:$(pwd)"
 To run the application, execute the main script located in the CommentAnalyzer directory. Use the following command:
 
 ```bash
-python CommentAnalyzer/main.py
+python3 -m CommentAnalyzer/main
 ```
 
 ## Contributing
